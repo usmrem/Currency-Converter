@@ -6,7 +6,7 @@ This application allows users to convert money between different currencies usin
 
 🌐 Live Demo
 
-https://emirow.github.io/Currency-Converter/
+https://usmrem.github.io/Currency-Converter/
 
 🚀 About The Project
 
@@ -36,4 +36,4 @@ Improve UI design
 
 Emirow
 
-GitHub: https://github.com/emirow
+GitHub: https://github.com/usmrem
