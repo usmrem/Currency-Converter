@@ -34,6 +34,4 @@ Add dark mode
 Improve UI design
 👨‍💻 Author
 
-Emirow
-
 GitHub: https://github.com/usmrem
